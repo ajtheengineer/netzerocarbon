@@ -19,7 +19,7 @@
     </p>
     <br />
     <p>
-      This website is inspired from this ted talk by Graham Conway.
+      This website is inspired from this <a target="_blank" href="https://youtu.be/S1E8SQde5rk">Ted Talk by Graham Conway.</a>
     </p>
   </WelcomeItem>
 
