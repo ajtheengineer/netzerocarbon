@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { ref } from "vue";
 let input = ref("");
 const cars = ["Prius Prime", "Prius", "Tesla", "Rav 4 Prime"];
